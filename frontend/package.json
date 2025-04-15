@@ -1,0 +1,31 @@
+{
+  "name": "manhwa-ai-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.0",
+    "swr": "^2.2.0",
+    "react-intersection-observer": "^9.5.0",
+    "framer-motion": "^10.16.4",
+    "zustand": "^4.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.20",
+    "@types/node": "^20.8.2",
+    "eslint": "^8.50.0",
+    "eslint-config-next": "^14.0.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3"
+  }
+} 
